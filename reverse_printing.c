@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 // defining recursive function
-int get_reverse_num(int x){
+int print_num(int x){
     if (x>0){
         printf("%d \n",x);
         return get_reverse_num(x-1);
@@ -16,7 +16,7 @@ int main(){
     int num;
     printf("enter the number : ");
     scanf("%d", &num);
-    return get_reverse_num(num);
+    return print_num(num);
 }
 
 /*
