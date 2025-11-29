@@ -27,7 +27,7 @@ public:
 };
 
 void MultipleStack::push1(int x){
-    if (top1-1 == top2){
+    if (top1+1 == top2){
         cout << "stack overflow" << endl;
     } else {
         arr[++top1] = x;
@@ -36,7 +36,7 @@ void MultipleStack::push1(int x){
 }
 
 void MultipleStack::push2(int x){
-    if (top2 == top1-1){
+    if (top1+1 = top2){
         cout << "stack overflow" << endl;
     } else {
         arr[--top2] = x;

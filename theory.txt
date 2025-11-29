@@ -1,0 +1,7 @@
+always use the words like recursively, iteratively, repeatedly, etc.
+
+What is Quick Sort?
+- It's a divide and conquer algorithm that partitions the array around a pivot and recursively sorts the parts of array.
+
+What is selection Sort?
+- It's a simple comparison-based sorting algorithm that works by repeatedly finding the minimum element from the unsorted part of the array and moving it to the sorted part.

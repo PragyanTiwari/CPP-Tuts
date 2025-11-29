@@ -22,7 +22,7 @@ int partition(int arr[], int low, int high){
         }
     }
 
-    // put the pivot between its lowers & highers
+    // swap the pivot with the element next to i
     swap(arr[high], arr[i+1]);
     
     // return the pos of pivot

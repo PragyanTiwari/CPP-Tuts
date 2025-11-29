@@ -1,7 +1,7 @@
-    #include <iostream>
-    using namespace std;
+#include <iostream>
+using namespace std;
 
-    void merge(int arr[], int left, int mid, int right){
+void merge(int arr[], int left, int mid, int right){
         
         // calculating the size of sub-arrays i.e two halves of arrays
         int n1 = mid - left + 1;

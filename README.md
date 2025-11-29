@@ -18,6 +18,7 @@ A collection of <b>C++ tutorials</b> and example programs for learning fundament
   <tr><td><code>linear_search.cpp</code></td><td>Linear Search algorithm</td></tr>
   <tr><td><code>merge_sort.cpp</code></td><td>Merge Sort algorithm</td></tr>
   <tr><td><code>multiple_stack.cpp</code></td><td>Implementation of multiple stacks in a single array</td></tr>
+    <tr><td><code>queue.cpp</code></td><td>Queue data structure implementation (array-based)</td></tr>
   <tr><td><code>reverse_printing.c</code></td><td>Reverse printing of an array</td></tr>
   <tr><td><code>stack.cpp</code></td><td>Stack data structure implementation</td></tr>
   <tr><td><code>selection_sort.cpp</code></td><td>Selection Sort algorithm</td></tr>
